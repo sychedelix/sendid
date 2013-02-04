@@ -4,12 +4,17 @@ Sandid is a router password brute forcer was created as proof of concept that we
 
 #Options
 
-  --ip-addrs, -i <s>:   IP address singel or a range
-       --verbose, -v:   Activate the verbose mode
-   --timeout, -t <i>:   Set time out (default: 1)
-   --threads, -h <i>:   Set the number of threads (default: 10)
-    --export, -e <s>:   Export the results to file
-          --help, -l:   Show this message
+  --ip-addrs, -i <s>: IP address singel or a range
+  
+  --verbose, -v:      Activate the verbose mode
+  
+  --timeout, -t <i>:  Set time out (default: 1)
+  
+  --threads, -h <i>:  Set the number of threads (default: 10)
+  
+  --export, -e <s>:   Export the results to file
+  
+  --help, -l:   	  Show this message
 
 #How does it work 
 
